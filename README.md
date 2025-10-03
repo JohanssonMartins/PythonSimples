@@ -1,1 +1,1 @@
-Seja Bem Vindo! ao Meu Repositorio de treinameno
+Seja Bem Vindo! ao Meu Repositorio de Treinamento
