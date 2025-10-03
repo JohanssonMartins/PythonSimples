@@ -7,4 +7,5 @@
 # questiona se um valor é igual a outro
 print("Olá Mundo!")
 Curso = "Curso Python 3"
+print (100+300)
 
